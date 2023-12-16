@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rookister, My actual name is Naeem.
-- 👀 I’m interested in a lot of things like Front End UI, AI & Machine Learning, Art and Animations.
-- 🌱 I’m currently learning as much as i can but focusing on Data Structures and Algorithms.
+- 👀 I’m interested in a lot of things like Front End UI, AI & Machine Learning, Art and Animation.
 - 💞️ I’m looking to collaborate on anything, you tell me.
 - 📫 You can reach me on my email: naeemmalik42069@gmail.com
 
